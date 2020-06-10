@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;utilitarios&apos; to &apos;SisMat/src&apos;&#x0D;&#x0A;- Original project: &apos;SisOficina&apos;&#x0D;&#x0A;- Destination element: &apos;SisMat/src&apos;&#x0D;&#x0A;- Original element: &apos;SisOficina/src/utilitarios&apos;" description="Copy package" destination="=SisMat/src" element1="/src&lt;utilitarios" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1589314627268" version="1.0"/>
+</session>
