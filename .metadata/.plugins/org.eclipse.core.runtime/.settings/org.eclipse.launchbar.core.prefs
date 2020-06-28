@@ -1,7 +1,0 @@
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:Interface,org.eclipse.launchbar.core.descriptorType.default\:InterfaceUsuario,org.eclipse.launchbar.core.descriptorType.default\:MainThread,org.eclipse.launchbar.core.descriptorType.default\:JTela2,org.eclipse.launchbar.core.descriptorType.default\:JTelaInicial,org.eclipse.launchbar.core.descriptorType.default\:InterfaceComercial (1),org.eclipse.launchbar.core.descriptorType.default\:InterfaceComercial (2),org.eclipse.launchbar.core.descriptorType.default\:InterfaceComercial
-eclipse.preferences.version=1
-org.eclipse.launchbar.core.descriptorType.default\:Interface/activeLaunchMode=run
-org.eclipse.launchbar.core.descriptorType.default\:Interface/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
